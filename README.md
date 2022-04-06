@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [RSD](https://rsdcourier.com/)
 
-- 🌱 I’m currently learning **.NET, Angular, Laravel**
+- 🌱 I’m currently learning **.NET, Angular**
 
 - 👨‍💻 All of my projects are available at [https://hannanbhuiyan.com/](https://hannanbhuiyan.com/)
 
