@@ -1,7 +1,7 @@
  <h1 align="center">Hi 👋, I'm Hannan Bhuiyan</h1>
 <h3 align="center">Full-Stack Web Developer from Bangladesh</h3>
 
-<img align="center" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" width="400" alt="coding" />
+<img align="center" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" width="100%" alt="coding" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hannanbhuiyan&label=Profile%20views&color=0e75b6&style=flat" alt="hannanbhuiyan" /> </p>
