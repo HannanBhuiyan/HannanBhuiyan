@@ -8,15 +8,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hannanbhuiyan" alt="hannanbhuiyan" /></a> </p>
 
-- 🔭 I’m currently working on [RSD](https://rsdcourier.com/)
-
-- 🌱 I’m currently learning **.NET, Angular**
+- 🌱 I’m currently working Python, Django
 
 - 👨‍💻 All of my projects are available at [https://hannanbhuiyan.com/](https://hannanbhuiyan.com/)
 
 - 📝 I regularly write articles on [http://blog.hannanbhuiyan.com/](http://blog.hannanbhuiyan.com/)
 
-- 📫 How to reach me **hannanbhuiyan.seu@gmail.com**
+- 📫 How to reach me **hannan728070@gmail.com**
 
 - ⚡ Fun fact **I love Programming and Travelling**
 
